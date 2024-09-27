@@ -2,7 +2,7 @@ let timer = document.querySelector("#countdown");
 
 setInterval(() => {
 
-    let time = new Date("May, 25, 2026, 15:30:00").getTime();
+    let time = new Date("May, 25, 2026, 12:00:00").getTime();
 
     let now = new Date().getTime();
 
