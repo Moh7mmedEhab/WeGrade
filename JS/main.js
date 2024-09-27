@@ -26,7 +26,7 @@ setInterval(() => {
 
     }
 
-    head.innerText = `${week_days[time_cpy]} | 30-9-2026`
+    head.innerText = `${week_days[time_cpy]} | 25-5-2026`
 
     let days = Math.floor(dis / (1000 * 60 * 60 * 24));
 
